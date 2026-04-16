@@ -1,2 +1,0 @@
-# EstudarJS
-estudando java script
