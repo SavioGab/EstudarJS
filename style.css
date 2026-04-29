@@ -79,3 +79,13 @@ h1 {
     color: #1ebe5d;
     transform: scale(1.2);
 }
+button {
+    background-color: #43e01b;
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
